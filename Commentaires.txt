@@ -1,0 +1,1 @@
+Il faut faire attention que c'est bien compatible avec les versions récentes de SQL Server
